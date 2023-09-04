@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rengarajan/DataScience/MLflow/mlruns/0/168b9a66e3bb4466b134d9b4ba31a2a4/artifacts
+end_time: 1693818699793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 168b9a66e3bb4466b134d9b4ba31a2a4
+run_name: clean-horse-920
+run_uuid: 168b9a66e3bb4466b134d9b4ba31a2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693818694758
+status: 3
+tags: []
+user_id: Rengarajan

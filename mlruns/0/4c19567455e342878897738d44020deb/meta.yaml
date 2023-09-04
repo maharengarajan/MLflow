@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rengarajan/DataScience/MLflow/mlruns/0/4c19567455e342878897738d44020deb/artifacts
+end_time: 1693819697967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c19567455e342878897738d44020deb
+run_name: gifted-mouse-729
+run_uuid: 4c19567455e342878897738d44020deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693819693030
+status: 3
+tags: []
+user_id: Rengarajan

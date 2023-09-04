@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rengarajan/DataScience/MLflow/mlruns/0/c7f4f14851c2422a9a9d1ca34fcd665f/artifacts
+end_time: 1693819313938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f4f14851c2422a9a9d1ca34fcd665f
+run_name: wise-wren-932
+run_uuid: c7f4f14851c2422a9a9d1ca34fcd665f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693819308135
+status: 3
+tags: []
+user_id: Rengarajan
